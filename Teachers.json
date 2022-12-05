@@ -1,0 +1,30 @@
+[
+  {
+    "FirstName": "Teacher",
+    "LastName": "Johns",
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg",
+    "Grade": "2A",
+    "PhoneNumber": "717-123-4567",
+    "Email": "teacher1@teacher.com",
+    "Availability": {"M","T","W"}
+  },
+  {
+    "FirstName": "Teacher",
+    "LastName": "Smith",
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg",
+    "Grade": "2B",
+    "PhoneNumber": "717-123-4568",
+    "Email": "teacher2@teacher.com",
+    "Availability": {"M","T","W"}
+  },
+  {
+    "FirstName": "Teacher",
+    "LastName": "Davis",
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg",
+    "Grade": "2C",
+    "PhoneNumber": "717-123-4569",
+    "Email": "teacher3@teacher.com",
+    "Availability": {"M","T","W"}
+  },
+
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "FirstName": "Student",
+    "LastName": "Lili",
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg",
+    "Grade": "2A"
+  },
+  {
+    "FirstName": "Student",
+    "LastName": "Oliver",
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg",
+    "Grade": "2A"
+  },
+  {
+    "FirstName": "Student",
+    "LastName": "Mike",
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg",
+    "Grade": "2B"
+  },
+  {
+    "FirstName": "Student",
+    "LastName": "Jay",
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg",
+    "Grade": "2B"
+  },
+  {
+    "FirstName": "Student",
+    "LastName": "Mia",
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg",
+    "Grade": "2B"
+  },
+  {
+    "FirstName": "Student",
+    "LastName": "Lola",
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg",
+    "Grade": "2C"
+  },
+  {
+    "FirstName": "Student",
+    "LastName": "Jake",
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg",
+    "Grade": "2C"
+  },
+
+]
